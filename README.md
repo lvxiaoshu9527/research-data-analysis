@@ -107,7 +107,7 @@ python amino\_acid/classification/spectral\_analysis\_tool.py
 
 ## 
 
-### \## 📊 成果可视化脱敏展示 (Scientific Visualization Demo)
+### \## 📊 成果可视化示意图展示 (Scientific Visualization Demo)
 
 
 
