@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# IDEA templates
+.idea/
+.vscode/
+
+# Data files (Exclude large raw datasets, keep structure)
+*.csv
+*.xlsx
+!reagent_manager/data/试剂总库_不要删除.xlsx
+!titanic/data/train.csv
+!titanic/data/test.csv
