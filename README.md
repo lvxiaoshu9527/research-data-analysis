@@ -107,31 +107,20 @@ python amino\_acid/classification/spectral\_analysis\_tool.py
 
 ## 
 
-### \## 📊 成果可视化示意图展示 (Scientific Visualization Demo)
+## 📊 成果可视化示意图展示 (Scientific Visualization Demo)
 
-
-
-> 本模块展示的图表仅作项目功能与科研绘图质量的演示。
-
-\### 核心成果图谱集成 (Integrated Results Gallery)
-
-
+> **💡 说明**：
+> 本图仅作为项目数据分析管线与科研绘图质量的**示意图**。
+### 核心成果图谱集成 (Integrated Results Gallery)
 
 下列四幅图展示了项目在数据分析管线中的关键产出：
 
+1. **PCA 聚类分析 (PCA Cluster Analysis)**：展示原始光谱数据在降维后的空间分布。
+2. **特征重要性排名 (SHAP Feature Importance)**：直观展示不同传感通道对模型决策的贡献度排名。
+3. **多模型分类验证 (ROC Curves Plot)**：提供不同参数、不同分类模型（如分层分类器）的 ROC 曲线对比。
+4. **标准化响应热图 (Normalized Response Heatmap)**：直观呈现传感器阵列对不同样本的标准化响应指纹图谱。
 
-
-1\. \*\*PCA 聚类分析 (PCA Cluster Analysis)\*\*：展示原始光谱数据在降维后的空间分布。
-
-2\. \*\*特征重要性排名 (SHAP Feature Importance)\*\*：直观展示不同传感通道对模型决策的贡献度排名。
-
-3\. \*\*多模型分类验证 (ROC Curves Plot)\*\*：提供不同参数、不同分类模型（如分层分类器）的 ROC 曲线对比。
-
-4\. \*\*标准化响应热图 (Normalized Response Heatmap)\*\*：直观呈现传感器阵列对不同样本的标准化响应指纹图谱。
-
-
-
-!\[Academic Project Visualization Demo](demo\_plots/academic\_demo.png)
+![项目数据分析示意图](figures/academic_demo.png)
 
 
 
